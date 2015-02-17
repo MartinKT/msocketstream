@@ -9,6 +9,8 @@
 
 ### Introduction
 
+ !!!! This is the private fork with some specific changes probably uninteresting for public !!!!
+
 SocketStream is a framework for Realtime Web Apps
 
 _Latest release: 0.3.11 ([view changelog](https://github.com/socketstream/socketstream/blob/master/HISTORY.md))_
